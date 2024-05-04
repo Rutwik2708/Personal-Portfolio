@@ -60,10 +60,8 @@ export default function Intro() {
         <span className="font-bold">Software Engineer</span>. I enjoy building
         software to solve <span className="italic">real world problems </span>.
         My expertise lies in{" "}
-        <span className="underline">
-          Full Stack, Backend, DevOps and Cloud technologies
-        </span>
-        .
+        <span className="underline">Full Stack, Backend, DevOps and Cloud</span>{" "}
+        technologies.
       </motion.h1>
 
       <motion.div
@@ -85,7 +83,7 @@ export default function Intro() {
         <a
           className="group bg-white px-7 py-3 flex items-center gap-2 rounded-full outline-none focus:scale-110 hover:scale-110 active:scale-105 transition cursor-pointer borderBlack dark:bg-white/10"
           href="https://drive.google.com/file/d/1vLCVpXuTYaabV9HclZrVvWqrC03seFu3"
-          download
+          download={true}
         >
           Download CV{" "}
           <HiDownload className="opacity-60 group-hover:translate-y-1 transition" />
