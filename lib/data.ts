@@ -14,8 +14,8 @@ export const links = [
     hash: "#home",
   },
   {
-    name: "About",
-    hash: "#about",
+    name: "Experience",
+    hash: "#experience",
   },
   {
     name: "Projects",
@@ -26,8 +26,8 @@ export const links = [
     hash: "#skills",
   },
   {
-    name: "Experience",
-    hash: "#experience",
+    name: "About",
+    hash: "#about",
   },
   {
     name: "Contact",
@@ -122,7 +122,7 @@ export const skillsData = [
   "Pandas",
   "Numpy",
   "Tensorflow",
-  "Sckitlearn",
+  "Scikit-learn",
   "HTML",
   "CSS",
   "JavaScript",

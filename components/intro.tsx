@@ -50,7 +50,7 @@ export default function Intro() {
         </div>
       </div>
 
-      <motion.h1
+      <motion.h2
         className="mb-10 mt-4 px-4 text-2xl font-medium !leading-[1.5] sm:text-4xl"
         initial={{ opacity: 0, y: 100 }}
         animate={{ opacity: 1, y: 0 }}
@@ -63,9 +63,9 @@ export default function Intro() {
         <span className="font-bold">Software Engineer</span>. I enjoy building
         software to solve <span className="italic">real world problems </span>.
         My expertise lies in{" "}
-        <span className="underline">Full Stack, Backend, DevOps and Cloud</span>{" "}
-        technologies.
-      </motion.h1>
+        <span className="underline">Full Stack, Backend, DevOps</span> and{" "}
+        <span className="underline"> Cloud</span> technologies.
+      </motion.h2>
 
       <motion.div
         className="flex flex-col sm:flex-row items-center justify-center gap-2 px-4 text-lg font-medium"

@@ -10,13 +10,13 @@ export default function Home() {
     <main className="flex flex-col items-center px-4">
       <Intro />
       <SectionDivider />
-      <About />
+      <Experience />
       <SectionDivider />
       <Projects />
       <SectionDivider />
       <Skills />
       <SectionDivider />
-      <Experience />
+      <About />
       <SectionDivider />
       <Contact />
     </main>
