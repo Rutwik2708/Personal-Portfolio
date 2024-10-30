@@ -22,29 +22,28 @@ export default function About() {
     >
       <SectionHeading>About Me </SectionHeading>
       <p className="mb-3">
-        Hello, I am Rutwik Chaudhari. With a solid foundation in computer
-        science and a proven track record of success in software engineering
-        roles, I am a highly motivated individual dedicated to delivering
-        innovative solutions and driving efficiency in technology-driven
-        environments. From my rigorous academic journey at Veermata Jijabai
-        Technological Institute (VJTI) to my ongoing pursuit of a Master's
-        degree in Computer Science at Arizona State University, I have
-        consistently excelled, maintaining a perfect GPA in my master's program
-        and earning accolades for my dedication. I am proficient in programming
-        languages such as Python, Java and Javascript. I have developed multiple
-        web applications and
+        I am a curious and experienced Software Engineer currently pursuing a
+        Master's in Computer Science at Arizona State University (ASU), expected
+        to graduate in May 2025. With a strong foundation in building reliable
+        and scalable technology solutions, I am eager to apply my skills and
+        tackle complex challenges in the tech industry. I am actively seeking
+        Fall and Spring CoOps, as well as full-time opportunities starting May
+        2025.
       </p>
       <p className="mb-3">
-        When I'm not working or studying, I enjoy going on hikes and exploring
-        nature. I also love watching TV shows and movies, and cooking up tasty
-        meals. And I have a keen interest in following the world of finance.
+        During my time as a Software Engineer at UBS, I worked on a wide range
+        of projects, from implementing cloud-native solutions to developing web
+        applications and optimizing CI/CD pipelines. I redesigned and maintained
+        critical systems, collaborated across teams to resolve production
+        issues, and led initiatives that enhanced the efficiency of key
+        applications. My contributions earned me the UBS Engineering Excellence
+        award, and I am proud to have won the 2022 UBS Group Functions AI/ML
+        Hackathon.
       </p>
-
       <p className="mb-3">
-        If you are looking for a passionate and driven individual who can bring
-        a unique blend of technical expertise to your team, let's connect! I am
-        excited about the prospect of contributing my skills and enthusiasm to a
-        forward-thinking organization.
+        In addition to my professional experience, I love participating in
+        hackathons, where I can innovate and collaborate with like-minded
+        individuals to create impactful solutions.
       </p>
     </motion.section>
   );

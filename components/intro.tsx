@@ -59,7 +59,7 @@ export default function Intro() {
         currently pursuing a{" "}
         <span className="font-bold">Masters in Computer Science</span> from{" "}
         <span className="font-bold">Arizona State University.</span> I have{" "}
-        <span className="font-bold">over 2 years</span> of work experience as a{" "}
+        <span className="font-bold">2 years</span> of work experience as a{" "}
         <span className="font-bold">Software Engineer</span>. I enjoy building
         software to solve <span className="italic">real world problems </span>.
         My expertise lies in{" "}
@@ -85,7 +85,7 @@ export default function Intro() {
 
         <a
           className="group bg-white px-7 py-3 flex items-center gap-2 rounded-full outline-none focus:scale-110 hover:scale-110 active:scale-105 transition cursor-pointer borderBlack dark:bg-white/10"
-          href="https://drive.google.com/file/d/1vLCVpXuTYaabV9HclZrVvWqrC03seFu3"
+          href="https://drive.google.com/file/d/1Ofn18G92FAGM5ufTZ3PQ8NpBwySPebFm/view?usp=sharing"
           download={true}
         >
           Download CV{" "}
